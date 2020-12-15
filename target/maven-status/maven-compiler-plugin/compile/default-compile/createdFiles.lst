@@ -1,0 +1,12 @@
+com\akpinar\firstapp\SwaggerConfigurations\SwaggerConfigurationUser.class
+com\akpinar\firstapp\repository\UserRepository.class
+com\akpinar\firstapp\service\EmplooyeService.class
+com\akpinar\firstapp\FirstAppApplication.class
+com\akpinar\firstapp\entities\Emplooye.class
+com\akpinar\firstapp\service\impl\EmplooyeServiceImpl.class
+com\akpinar\firstapp\repository\EmplooyeRepository.class
+com\akpinar\firstapp\controller\EmplooyeController.class
+com\akpinar\firstapp\entities\User.class
+com\akpinar\firstapp\service\UserService.class
+com\akpinar\firstapp\controller\UserController.class
+com\akpinar\firstapp\service\impl\UserServiceImpl.class
